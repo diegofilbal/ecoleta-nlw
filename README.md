@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/lorenatoscano/ecoleta-nlw/blob/main/README-en.md">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/lorenatoscano/ecoleta-nlw/blob/main/README.md">Português (Brasil)</a>
+</p>
+<hr>
+
 <h1 align="center">
      ♻️ <a href="#" alt="site do ecoleta"> Ecoleta </a>
 </h1>
